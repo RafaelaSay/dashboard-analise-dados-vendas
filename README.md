@@ -32,3 +32,11 @@ A partir dessas bases, foi realizado o tratamento, organização e modelagem dos
 ## 🎯 Objetivo Analítico
 
 Transformar dados operacionais em indicadores visuais e estratégicos, permitindo a análise de desempenho das lojas, dos produtos e da equipe, auxiliando na tomada de decisão.
+
+## 📷 Visualização do Dashboard
+
+dashboard-marcas.png
+
+dashboard-ranking.png
+
+dashboard-vendas.png
