@@ -35,8 +35,11 @@ Transformar dados operacionais em indicadores visuais e estratégicos, permitind
 
 ## 📷 Visualização do Dashboard
 
-dashboard-marcas.png
+### Ranking de Vendedores
+![Ranking](images/dashboard-ranking.png)
 
-dashboard-ranking.png
+### Análise por Marca
+![Marcas](images/dashboard-marcas.png)
 
-dashboard-vendas.png
+### Visão Geral de Vendas
+![Vendas](images/dashboard-vendas.png)
