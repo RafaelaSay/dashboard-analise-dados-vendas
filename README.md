@@ -43,3 +43,11 @@ Transformar dados operacionais em indicadores visuais e estratégicos, permitind
 
 ### Visão Geral de Vendas
 ![Vendas](images/dashboard-vendas.png)
+
+## Insights
+Visão Geral de Vendas
+Faturamento líquido de R$ 3,79 Mi com 2 mil vendas realizadas e devoluções controladas (R$ 236 Mil). Campinas lidera a participação regional (13,55%) e o iPhone XS é o produto mais faturado.
+Ranking de Vendedores
+Campinas domina o top 5, com Fernando Moura na liderança (R$ 134.488 de lucro). Há uma diferença de quase 3x entre o 1º e o 5º colocado, indicando oportunidade de desenvolvimento para os demais vendedores.
+Análise por Marca
+Apple, Dell e Samsung concentram a maior parte da receita. Há queda de vendas entre maio e setembro, sugerindo sazonalidade. O Dell GT - Vermelho é o produto com maior volume de devoluções, ponto de atenção para investigação.
